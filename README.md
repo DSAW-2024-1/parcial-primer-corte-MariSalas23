@@ -2,8 +2,7 @@
 # Parcial Primer Corte
 
 ## Link
-
-
+https://dsaw-2024-1.github.io/parcial-primer-corte-MariSalas23/
 
 ## HTML, CSS y JavaScript
 
