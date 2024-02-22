@@ -1,0 +1,22 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.white-container {
+    gap: 1rem!important;
+    border-bottom-right-radius: 8%;
+    border-bottom-left-radius: 8%;
+}
+
+h1 {
+    font-weight: bold;
+}
